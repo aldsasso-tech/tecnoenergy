@@ -1,0 +1,10 @@
+{
+  "description": "Showcases a professional website for an installation company with an enhanced logo to boost brand identity and attract potential clients.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
